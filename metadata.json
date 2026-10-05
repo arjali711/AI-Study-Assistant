@@ -1,0 +1,6 @@
+{
+  "name": "CogniStudy - AI-Powered Study Assistant",
+  "description": "An intelligent study assistant web application with AI chat, smart note generation, automated flashcards & quizzes, study planner, progress analytics, and SQLite database storage powered by Gemini 3.8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
